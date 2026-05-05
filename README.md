@@ -6,10 +6,9 @@
 3. line 3
 
 ### test2
-* line2-1
-*   sub1
-*   
-* line2-2
+- line2-1
+- sub1
+    line2-2
   
 #### test3
 
