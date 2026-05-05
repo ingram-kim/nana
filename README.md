@@ -13,7 +13,14 @@
   
 #### test3
 
----
+```c++
+void main(int argc, char *argv[])
+{
+    int a, b;
+    printf("test\n");
+    return;
+}
+```
 
 
 this is nana's github repository
