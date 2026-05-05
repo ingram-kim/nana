@@ -25,4 +25,6 @@ void main(int argc, char *argv[])
 ```
 
 
+![profile](nana.png)
+
 this is nana's github repository
